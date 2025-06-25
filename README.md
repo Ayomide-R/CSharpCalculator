@@ -11,7 +11,7 @@ This is a simple C# console-based calculator for beginners. It performs:
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/YourUsername/CSharpCalculator
+git clone https://github.com/Ayomide-R/CSharpCalculator
 cd CSharpCalculator
 
 2. Run the calculator:
